@@ -10,5 +10,4 @@ Potential functions method (for Rectangle, Epanechnikov, Triangle, Gauss kernels
 
 also used STOLP algorithm for drawing classification maps with etalon objects
 
-
-also test
+test
